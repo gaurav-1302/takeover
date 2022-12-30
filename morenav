@@ -1,0 +1,110 @@
+[
+  {
+    "cardName": "Dashboard",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Master Data Edit",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Customer Data Edit",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Furnace Analysis",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Customer Report",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Clearance Report",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Cut Part Report",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Rework Analysis",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Furnace Process Cycle Entry",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Furnace Idle Time Entry",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Production Excel Report",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Monthly Information",
+    "link": "Bret"
+  },
+  {
+    "cardName": "OutSource & Remark Info.",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Heat Treatment Report",
+    "link": "Bret"
+  },
+  {
+    "cardName": "User Management",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Raw Mat Data Entry",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Raw Mat Data Analysis",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Raw Mat Data Entry",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Raw Mat Data Search",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Daily Inward Material Receipt",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Daily Inward Material Clearance",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Generate Heat Code",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Approved Part List",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Edit Material Spec List",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Daily Inward Material Search",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Edit Steel Mill List",
+    "link": "Bret"
+  },
+  {
+    "cardName": "Edit Supp Name List",
+    "link": "Bret"
+  }
+]
